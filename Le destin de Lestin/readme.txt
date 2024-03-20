@@ -1,0 +1,1 @@
+Juste pour vous dire que je ne sais pas pourquoi mais sur mon ordinateur je suis obligé de l'executable lestin_v5.py à partir de l'invite de commande.
